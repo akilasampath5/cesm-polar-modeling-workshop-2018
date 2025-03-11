@@ -4,11 +4,11 @@
 
 This portfolio documents my participation in the **2018 CESM Polar Modeling Workshop**, funded by the **National Science Foundation (NSF) Office of Polar Programs**. The workshop was held at the **National Center for Atmospheric Research (NCAR)** in Boulder, Colorado, from **August 13-17, 2018**. It provided **hands-on training in high-performance computing (HPC), Earth system modeling, and polar science applications** using the **Community Earth System Model (CESM)**.
 
-📌 **Workshop Link:** [2018 CESM Polar Modeling Workshop](https://www2.cesm.ucar.edu/events/workshops/2018PMWS/)  
+ **Workshop Link:** [2018 CESM Polar Modeling Workshop](https://www2.cesm.ucar.edu/events/workshops/2018PMWS/)  
 
 ---
 
-## 📌 My Experience
+##  My Experience
 
 As a participant, I engaged in hands-on sessions focused on **configuring, running, and analyzing CESM simulations for polar climate research**. The workshop emphasized:
 
@@ -22,27 +22,27 @@ Throughout the workshop, I collaborated with **climate scientists, computational
 
 ---
 
-## 🛠 Skills Gained
+## Skills Gained
 
 💡 **Technical Skills:**
-- 🌍 **Earth System Modeling**: Running, modifying, and interpreting **CESM-based simulations**.
-- 🖥 **High-Performance Computing (HPC)**: Using **Cheyenne** for large-scale climate simulations.
-- ❄ **Atmosphere Modeling**: Understanding **polar climate dynamics** in CESM.
-- 📊 **Data Analysis & Post-Processing**: Analyzing climate outputs using **Python & NCL (NCAR Command Language)**.
-- 🔧 **Model Configuration & Experiment Design**: Designing **climate modeling experiments** for polar applications.
+- **Earth System Modeling**: Running, modifying, and interpreting **CESM-based simulations**.
+- **High-Performance Computing (HPC)**: Using **Cheyenne** for large-scale climate simulations.
+- **Atmosphere Modeling**: Understanding **polar climate dynamics** in CESM.
+- **Data Analysis & Post-Processing**: Analyzing climate outputs using **Python & NCL (NCAR Command Language)**.
+-  **Model Configuration & Experiment Design**: Designing **climate modeling experiments** for polar applications.
 
 ---
 
-## 📂 Projects & Contributions
+##  Projects & Contributions
 
 During the workshop, I worked on **[describe a specific project]**, where I:
-- 📌 **Ran CESM simulations to analyze Arctic sea ice variability from 1980-2015**.
-- 📌 **Investigated climate feedbacks by modifying sea ice albedo and surface temperature parameters**.
-- 📌 **Compared CESM sea ice projections with observational datasets** to evaluate model performance.
+-  **Ran CESM simulations to analyze Arctic sea ice variability from 1980-2015**.
+-  **Investigated climate feedbacks by modifying sea ice albedo and surface temperature parameters**.
+-  **Compared CESM sea ice projections with observational datasets** to evaluate model performance.
 
 ---
 
-## 📜 Documentation & References
+##  Documentation & References
 
 📑 **[Workshop Agenda](Documentation/workshop_agenda.pdf)** *(Official agenda listing my participation)*  
 📑 **[CESM Workshop Presentation Slides]** *(If available)*  
