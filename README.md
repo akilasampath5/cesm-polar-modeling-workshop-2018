@@ -35,17 +35,18 @@ Throughout the workshop, I collaborated with **climate scientists, computational
 
 ##  Projects & Contributions
 
-During the workshop, I worked on **[describe a specific project]**, where I:
--  **Ran CESM simulations to analyze Arctic sea ice variability from 1980-2015**.
+During the workshop, I worked on **Atmosphere #3 project team with	Claire Pettersen, Tyler Janoski, and Akila Sampath**, where I:
+-  **Ran CESM simulations to analyze Arctic climate projections**.
 -  **Investigated climate feedbacks by modifying sea ice albedo and surface temperature parameters**.
--  **Compared CESM sea ice projections with observational datasets** to evaluate model performance.
+-  **Compared CESM climate projections with observational datasets** to evaluate model performance.
 
 ---
 
 ##  Documentation & References
 
-📑 **[Workshop Agenda](Documentation/workshop_agenda.pdf)** *(Official agenda listing my participation)*  
-📑 **[CESM Workshop Presentation Slides]** *(If available)*  
+📑 **[Workshop Agenda]((https://github.com/akilasampath5/cesm-polar-modeling-workshop-2018/blob/main/Agenda_2018Polarmodelingworkshop.pdf))** *(Official agenda listing my participation)*  
+📑 **[Workshop Presentation Slides]** *https://github.com/akilasampath5/cesm-polar-modeling-workshop-2018/blob/main/Pettersen_Janoski_Sampath_presentation.pdf*  
+📑 **[Workshop Poster] https://github.com/akilasampath5/cesm-polar-modeling-workshop-2018/blob/main/OneBig-idea-ASampath-2018.pdf, https://www2.cesm.ucar.edu/events/workshops/2018PMWS/posters.html** *(Official listing my poster)* 
 📑 **[Official Workshop Page](https://www2.cesm.ucar.edu/events/workshops/2018PMWS/)**  
 
 ---
