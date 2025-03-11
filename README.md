@@ -12,11 +12,11 @@ This portfolio documents my participation in the **2018 CESM Polar Modeling Work
 
 As a participant, I engaged in hands-on sessions focused on **configuring, running, and analyzing CESM simulations for polar climate research**. The workshop emphasized:
 
-- ✅ **CESM model setup & execution** for Arctic and Antarctic climate studies.
-- ✅ **Atmosphere, Ocean, Sea ice & land ice modeling** to simulate cryospheric interactions.
-- ✅ **Using NCAR’s Cheyenne Supercomputer** for large-scale climate simulations.
-- ✅ **Post-processing CESM outputs** for climate analysis and visualization.
-- ✅ **Interpreting climate model results** in the context of observational data.
+- **CESM model setup & execution** for Arctic and Antarctic climate studies.
+- **Atmosphere, Ocean, Sea ice & land ice modeling** to simulate cryospheric interactions.
+- **Using NCAR’s Cheyenne Supercomputer** for large-scale climate simulations.
+- **Post-processing CESM outputs** for climate analysis and visualization.
+- **Interpreting climate model results** in the context of observational data.
 
 Throughout the workshop, I collaborated with **climate scientists, computational modelers, and fellow early-career researchers** to explore CESM’s capabilities in **simulating polar climate variability and change**.
 
